@@ -1,0 +1,6 @@
+{
+  "name": "Aura - Premium Luxury Restaurant Website",
+  "description": "A luxury modern restaurant website representing a premium USA brand. Optimized for high conversion, Core Web Vitals, local SEO, WCAG 2.2 accessibility, and Google AdSense.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
