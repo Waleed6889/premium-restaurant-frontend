@@ -12,27 +12,6 @@ https://aura-premium-luxury-restaurant-website-1088521412228.asia-southeast1.run
 
 ---
 
-## 📸 Preview
-
-> Add screenshots of your website here.
-
-Example:
-
-```
-assets/
-│
-├── homepage.png
-├── menu-section.png
-└── mobile-view.png
-```
-
-Then display them like this:
-
-```md
-![Homepage](assets/homepage.png)
-```
-
----
 
 ## ✨ Features
 
@@ -119,9 +98,9 @@ Aspiring Frontend Web Developer
 
 Currently learning Web Development and AI.
 
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: https://github.com/Waleed6889
 
-LinkedIn: https://linkedin.com/in/YOUR_USERNAME
+LinkedIn: https://www.linkedin.com/in/waleed-rafique-7237a8418/
 
 ---
 
